@@ -1,0 +1,15 @@
+{
+    "serverPort":3000,
+    "default":{
+        "apiKey":"0baeef8ef5174ebebebee97335e7dd1f",
+        "baseURL":"http://api.ipstack.com/",
+        "rateLimit":1,
+        "tokenQueryParam":"access_key"
+    },
+    "fallback":{
+        "apiKey":"a57fd0930e78c5",
+        "baseURL":"http://ipinfo.io/",
+        "rateLimit":2,
+        "tokenQueryParam":"token"
+    }
+}
