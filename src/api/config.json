@@ -9,7 +9,7 @@
     "fallback":{
         "apiKey":"a57fd0930e78c5",
         "baseURL":"http://ipinfo.io/",
-        "rateLimit":2,
+        "rateLimit":7,
         "tokenQueryParam":"token"
     }
 }
